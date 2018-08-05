@@ -18,6 +18,18 @@ a {
     height: 30px;
 }
 
+.itemGreen {
+    color: forestgreen;
+}
+
+.itemRed {
+    color: indianred;
+}
+
+.itemBlue {
+    color: cornflowerblue;
+}
+
 td:not(:hover) .enlarge {
     display: none;
 }
